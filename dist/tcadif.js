@@ -4511,6 +4511,7 @@ module.exports = {
     "VOI": "VOI",
     "WINMOR": "WINMOR",
     "WSPR": "WSPR",
+    "DATA": "DATA",
 };
 
 },{}],175:[function(require,module,exports){
